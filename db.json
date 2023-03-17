@@ -1,8 +1,22 @@
 {
-  "users": [
-    { "id": 1, "name": "Nguyen dep trai", "age": 19, "sex": 1 },    
-    { "id": 2, "name": "Nguyen vip pro", "age": 19, "sex": 1 },    
-    { "id": 3, "name": "Nguyen dang cap", "age": 19, "sex": 1 }
- 
-  ]
+	"users": [{
+			"id": 1,
+			"name": "Nguyen dep trai",
+			"age": 19,
+			"sex": 1
+		},
+		{
+			"id": 2,
+			"name": "Nguyen vip pro",
+			"age": 19,
+			"sex": 1
+		},
+		{
+			"id": 3,
+			"name": "Nguyen dang cap",
+			"age": 19,
+			"sex": 1
+		}
+
+	]
 }
