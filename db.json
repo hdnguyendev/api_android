@@ -3,19 +3,19 @@
 			"id": 1,
 			"name": "Nguyen dep trai",
 			"age": 19,
-			"sex": 1
+			"sex": true
 		},
 		{
 			"id": 2,
 			"name": "Nguyen vip pro",
 			"age": 19,
-			"sex": 1
+			"sex": true
 		},
 		{
 			"id": 3,
-			"name": "Nguyen dang cap",
+			"name": "dd dang cap",
 			"age": 19,
-			"sex": 1
+			"sex": false
 		}
 
 	]
